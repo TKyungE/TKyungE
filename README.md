@@ -18,4 +18,9 @@
     <div align= "center"> <a href=https://www.notion.so/da63919b22eb493fa868d7392cee0b29> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/da63919b22eb493fa868d7392cee0b29"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-    </div>
+</div>
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=TKyungE&custom_title=TKyungE's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKyungE&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+</div>
