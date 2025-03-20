@@ -15,7 +15,7 @@
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About Me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/da63919b22eb493fa868d7392cee0b29> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/da63919b22eb493fa868d7392cee0b29"> </a>
+    <div align= "center"> <a href=[https://www.notion.so/da63919b22eb493fa868d7392cee0b29](https://amplified-lemonade-4df.notion.site/1bcd8909d4b28061b7fcdb0203c8ad30?pvs=4)> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/da63919b22eb493fa868d7392cee0b29"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
 </div>
